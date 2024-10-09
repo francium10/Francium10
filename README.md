@@ -2,7 +2,7 @@
 <img src="" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm  Francis Lufwendo, a full-stack freelance developer working remotely since 2020 🚀</div>  
+### <div align="left">I'm  Francis Lufwendo, a full-stack freelance developer working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on some freelance work with ministry of tourism in Zambia called visit Zambia in which I designed and Maintained a website that attracts tourist.  
