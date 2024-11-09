@@ -2,13 +2,13 @@
 <img src="" align="center" style="width: 100%" />
 </div>  
 
-### <div align="left">I'm  Francis Lufwendo, a full-stack freelance developer working remotely since 2020 🚀</div>  
+### <div align="left">I'm  Francis Lufwendo, a full-stack freelance developer working remotely for a while now 🚀</div>  
   
 
-- 🔭 I’m currently working on some freelance work with ministry of tourism in Zambia called visit Zambia in which I designed and Maintained a website that attracts tourist.  
+- 🔭 I’m currently working on some freelance work with ministry of tourism in Zambia called visit Zambia in which I designed and Maintained a website that showcases the beauty if zambia and attracts tourist.  
   
 
-- I am currently refining my skills and currently I am proficient with JavaScript, React, TypeScript and Next JS.   
+- I am currently refining my skills and currently I am proficient with JavaScript, React, TypeScript.   
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
