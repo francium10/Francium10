@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<!-- <img src="" align="center" style="width: 100%" /> -->
 </div>  
 
 ### <div align="left">I'm  Francis Lufwendo, a full-stack web developer and a solution archetect 🚀</div>  
