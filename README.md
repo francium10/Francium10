@@ -2,7 +2,7 @@
 <!-- <img src="" align="center" style="width: 100%" /> -->
 </div>  
 
-### <div align="left">I'm  Francis Lufwendo, a full-stack web developer and a solution archetect 🚀</div>  
+### <div align="left">I'm  Francis Lufwendo, a Full-Stack Web Developer and a Solution Architect 🚀</div>  
   
 
 - 🔭 I’m currently work as a freelance developer 
