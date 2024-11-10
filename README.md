@@ -8,7 +8,7 @@
 - 🔭 I’m currently work as a freelance developer 
   
 
-- I am currently refining my skills and currently I am proficient with JavaScript, React, TypeScript.   
+- I am currently refining my skills and I am proficient with JavaScript, React, TypeScript.   
   
 
 - ❓ Ask me about anything related to MERN/PERN stack and related technologies  
