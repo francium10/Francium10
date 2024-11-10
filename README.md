@@ -11,7 +11,7 @@
 - I am currently refining my skills and currently I am proficient with JavaScript, React, TypeScript.   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN/PERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
