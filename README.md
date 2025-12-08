@@ -8,10 +8,10 @@
 - 🔭 I’m currently work as a freelance developer 
   
 
-- I am currently refining my skills and I am proficient with JavaScript, React, TypeScript.   
+- I am currently refining my skills and I am proficient with JavaScript, React, TypeScript Node, Python,LLM Engineering, RAG systems etc .   
   
 
-- ❓ Ask me about anything related to MERN/PERN stack and related technologies  
+- ❓ Ask me about anything related to MERN/PERN stack and AI Engineering and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
