@@ -1,84 +1,71 @@
-<div align="center">
-<!-- <img src="" align="center" style="width: 100%" /> -->
-</div>  
+# Francis Lufwendo
 
-### <div align="left">I'm  Francis Lufwendo, a Full-Stack Web Developer and a Solution Architect 🚀</div>  
-  
+**Biotech × Software Developer**
 
-- 🔭 I’m currently work as a freelance developer 
-  
+MS Biotechnology Management & Entrepreneurship @ Yeshiva University | Full-Stack Developer | Founder of RegComplyAI
 
-- I am currently refining my skills and I am proficient with JavaScript, React, TypeScript Node, Python,LLM Engineering, RAG systems etc .   
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-francis--lufwendo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/francis-lufwendo)
+[![GitHub](https://img.shields.io/badge/GitHub-francium10-181717?style=flat&logo=github)](https://github.com/francium10)
+[![Email](https://img.shields.io/badge/Email-flufwendo%40mail.yu.edu-EA4335?style=flat&logo=gmail)](mailto:flufwendo@mail.yu.edu)
 
-- ❓ Ask me about anything related to MERN/PERN stack and AI Engineering and related technologies  
-  
+---
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+## About Me
 
-<br/>  
+I'm a pharmacist turned software developer bridging the gap between life sciences and technology. Currently building AI-powered solutions for FDA regulatory compliance while pursuing my MS in Biotechnology Management at Yeshiva University.
 
+- 🎓 **MS Biotechnology Management** — Yeshiva University (GPA: 4.0)
+- 💊 **Bachelor of Pharmacy** — Marwadi University (GPA: 3.87)
+- 🚀 **Founder** — RegComplyAI
+- 🌍 **Co-Founder** — Education-24 ($2M+ scholarships secured)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-</div>
+## Featured Projects
 
-</td><td valign="top" width="33%">
+### [RegComplyAI](https://regcomplyai.org)
+AI-powered FDA regulatory compliance platform for biotech startups. Built with MERN stack + LangChain RAG pipeline parsing 500+ FDA documents.
 
+`React` `Node.js` `Python` `LangChain` `OpenAI` `MongoDB`
 
+### [Education-24](https://education-24.com)
+Nonprofit platform helping high-achieving, low-income students access higher education. Secured $2M+ in scholarships across Southern Africa.
 
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
+`React` `Express` `PostgreSQL` `Node.js`
 
-</td><td valign="top" width="33%">
+### ESAWAS Data Platform
+Full-stack data visualization for water & sanitation infrastructure analysis in Zambia.
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+`Python` `React` `D3.js` `SQL` `PostgreSQL`
 
-</td></tr></table>  
+---
 
-<br/>  
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/francium10" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href=" https://www.linkedin.com/in/francis-lufwendo-5a47a8225" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## Tech Stack
 
-<br/>  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francium10&hide_border=true&layout=compact" align="center" /></div>  
+**Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS
 
-<br/>   
-<div align="center"></div>
-<br />
+**AI/ML:** PyTorch, TensorFlow, LangChain, RAG Systems, NLP, LLM Fine-tuning
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Backend:** Node.js, Express, Flask, PostgreSQL, MongoDB
+
+**Tools:** Git, Docker, AWS, Agile/Scrum
+
+**Domain:** FDA Regulatory Affairs, Clinical Research, Biotech R&D
+
+---
+
+## Publications
+
+📄 *AI and Machine Learning in Drug Discovery* — Modern Approaches in Drug Discovery (Co-author)
+
+---
+
+## Let's Connect
+
+I'm actively seeking **Summer 2026 internships** at biotech/pharma tech companies.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/francis-lufwendo)
+- 🐙 [GitHub](https://github.com/francium10)
+- 📧 [flufwendo@mail.yu.edu](mailto:flufwendo@mail.yu.edu)
