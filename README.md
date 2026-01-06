@@ -4,7 +4,7 @@
 
 MS Biotechnology Management & Entrepreneurship @ Yeshiva University | Full-Stack Developer | Founder of RegComplyAI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-francis--lufwendo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/francis-lufwendo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-francis--lufwendo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/francis-lufwendo-5a47a8225)
 [![GitHub](https://img.shields.io/badge/GitHub-francium10-181717?style=flat&logo=github)](https://github.com/francium10)
 
 
