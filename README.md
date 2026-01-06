@@ -6,7 +6,7 @@ MS Biotechnology Management & Entrepreneurship @ Yeshiva University | Full-Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-francis--lufwendo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/francis-lufwendo)
 [![GitHub](https://img.shields.io/badge/GitHub-francium10-181717?style=flat&logo=github)](https://github.com/francium10)
-[![Email](https://img.shields.io/badge/Email-flufwendo%40mail.yu.edu-EA4335?style=flat&logo=gmail)](mailto:flufwendo@mail.yu.edu)
+
 
 ---
 
@@ -14,7 +14,7 @@ MS Biotechnology Management & Entrepreneurship @ Yeshiva University | Full-Stack
 
 I'm a pharmacist turned software developer bridging the gap between life sciences and technology. Currently building AI-powered solutions for FDA regulatory compliance while pursuing my MS in Biotechnology Management at Yeshiva University.
 
-- 🎓 **MS Biotechnology Management** — Yeshiva University (GPA: 4.0)
+- 🎓 **MS Biotechnology Management** — Yeshiva University (GPA: 3.88)
 - 💊 **Bachelor of Pharmacy** — Marwadi University (GPA: 3.87)
 - 🚀 **Founder** — RegComplyAI
 - 🌍 **Co-Founder** — Education-24 ($2M+ scholarships secured)
